@@ -1,5 +1,3 @@
-Trendify
-Introduction
 Trendify is a mobile application designed to help users stay up-to-date with the latest trends across various domains such as fashion, technology, business, and more. The platform leverages real-time data analytics, visually appealing trend dashboards, and personalized recommendations to provide actionable insights and external integrations for users.
 
 Problem Statement
